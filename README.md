@@ -25,3 +25,9 @@ src="https://img.shields.io/github/followers/tomhacker69?logo=github&style=for-t
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/tomhacker69"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tomhacker69&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 📈 Contribution Graph:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomHacker69&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+<br>

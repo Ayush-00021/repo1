@@ -1,12 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ankit Singh Tomar
-==========================================================================================================================================
 
-Aspiring Full-Stack Developer | AI & ML Enthusiast
---------------------------------------------------
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh+Tomar!" 
+    alt="Typing SVG" 
+  />
+</p>
 
-I am a passionate developer who enjoys building practical and meaningful tech solutions. I love working on AI-powered projects, web applications, and hackathon ideas that solve real-world problems. I am currently improving my skills in Python, Streamlit, web development, and machine learning. My goal is to create useful, clean, and scalable applications that combine creativity with technology.
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+    alt="Animated Line" 
+    width="500"
+  />
+</p>
 
-* 🌍  I'm based in Ghaziabad, Uttar Pradesh, India
+<h2 align="center">Aspiring Full-Stack Developer | AI & ML Enthusiast</h2>
+
+* 🌍  I'm from Delhi,India.
 * ✉️  You can contact me at [ankitomar.shs@gmail.com](mailto:ankitomar.shs@gmail.com)
 * 🧠  I'm currently learning Full-Stack Web Development, Python, Machine Learning, Streamlit, and AI-based project development
 * 💬  I am a great Chef

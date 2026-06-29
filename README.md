@@ -32,12 +32,17 @@
 src="https://img.shields.io/github/followers/tomhacker69?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
+## 📊 My GitHub Stats
 
-<a href="http://www.github.com/tomhacker69"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tomhacker69&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tomhacker69&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomhacker69&show_icons=true&bg_color=181824&title_color=10b981&text_color=ffffff&icon_color=10b981&hide_border=true" />
+</p>
+
 ### 📈 Contribution Graph:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomHacker69&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
+

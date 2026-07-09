@@ -41,7 +41,7 @@
   <tr>
     <td>
       <img
-        src="https://streak-stats.demolab.com?user=TomHacker69&theme=dark&background=181824&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=TomHacker69&theme=dark&background=181824&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981"
         width="420"
       />
     </td>

@@ -1,11 +1,23 @@
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh+Tomar!" 
-    alt="Typing SVG" 
-  />
-</p>
+<table>
+<tr>
 
+<td width="45%" align="center">
+<img src="./assets/ascii.png" width="340">
+</td>
+
+<td width="55%" align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh+Tomar!"/>
+
+<h3>
+Full-Stack Python Developer | AI & ML Enthusiast
+</h3>
+
+</td>
+
+</tr>
+</table>
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 

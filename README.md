@@ -1,24 +1,18 @@
+<p align="left">
+  <img
+    src="./assets/octocat.png"
+    width="260"
+    align="left"
+    alt="Octocat"
+  />
 
-<table>
-<tr>
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&duration=4000&color=38BDF8&vCenter=true&width=500&height=90&lines=Hi+There!+👋;I'm+Ankit+Singh+Tomar!"
+    alt="Typing SVG"
+  />
+</p>
 
-<td width="38%" align="center">
-
-<img src="./assets/octocat.png" width="300"/>
-
-</td>
-
-<td width="62%" align="center">
-
-<img
-src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=520&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh+Tomar!"
-/>
-
-
-</td>
-
-</tr>
-</table>
+<br clear="left"/>
 
 <h2 align="center">Full-Stack Python Developer | AI & ML Enthusiast</h2>
 

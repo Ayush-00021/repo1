@@ -2,24 +2,23 @@
 <table>
 <tr>
 
-<td width="45%" align="center">
-<img src="./assets/ascii.png" width="340">
+<td width="38%" align="center">
+
+<img src="./assets/octocat.png" width="300"/>
+
 </td>
 
-<td width="55%" align="center">
+<td width="62%" align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh+Tomar!"/>
+<img
+src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=520&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh+Tomar!"
+/>
+
+
 </td>
 
 </tr>
 </table>
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
-    alt="Animated Line" 
-    width="500"
-  />
-</p>
 
 <h2 align="center">Full-Stack Python Developer | AI & ML Enthusiast</h2>
 
@@ -69,3 +68,8 @@
 </div>
 <br>
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<p align="center">
+<img src="./assets/coding.gif" width="900"/>
+</p>

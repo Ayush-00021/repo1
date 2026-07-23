@@ -7,7 +7,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&duration=2000&color=38BDF8&vCenter=true&width=500&height=90&lines=Hi+There!+👋;I'm+Ankit+Singh+Tomar!"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&duration=2500&color=38BDF8&vCenter=true&width=500&height=90&lines=Hi+There!+👋;I'm+Ankit+Singh+Tomar!"
     alt="Typing SVG"
   />
 </p>

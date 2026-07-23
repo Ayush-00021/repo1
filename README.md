@@ -63,7 +63,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-###  GSSoC 2026 Achievements
+###  GSSoC 2026 Achievements 
 
 <p align="center">
 <img src="assets\gssoc-badge-elite.png" width="230"/>
@@ -71,6 +71,8 @@
 <img src="assets\gssoc-badge-on_a_roll.png" width="230"/>
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+### Wait , I am building something Crazy ........
 <p align="center">
 <img src="./assets/coding.gif" width="900"/>
 </p>

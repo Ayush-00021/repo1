@@ -66,11 +66,10 @@
 ###  GSSoC 2026 Achievements
 
 <p align="center">
-
+<img src="assets\gssoc-badge-gssoc_champion.png" width="120"/>
 <img src="assets\gssoc-badge-elite.png" width="120"/>
 <img src="assets\gssoc-badge-power_contributor.png" width="120"/>
 <img src="assets\gssoc-badge-on_a_roll.png" width="120"/>
-<img src="assets\gssoc-badge-building_momentum.png" width="120"/>
 
 
 </p>

@@ -31,7 +31,7 @@
 
 <p align="left"> <a href="https://www.github.com/tomhacker69" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ankitomar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/tomhack69" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -65,23 +65,24 @@
 
 ###  GSSoC 2026 Achievements 
 
-<p align="center">
-<<<<<<< HEAD
-<img src="assets\gssoc-badge-gssoc_champion.png" width="120"/>
-<img src="assets\gssoc-badge-elite.png" width="120"/>
-<img src="assets\gssoc-badge-power_contributor.png" width="120"/>
-<img src="assets\gssoc-badge-on_a_roll.png" width="120"/>
+<p align="center"> 
+<img src="assets\gssoc-badge-gssoc_champion.png" width="250"/>
+<img src="assets\gssoc-badge-elite.png" width="250"/>
+<img src="assets\gssoc-badge-power_contributor.png" width="250"/>
 
 
-=======
-<img src="assets\gssoc-badge-elite.png" width="230"/>
-<img src="assets\gssoc-badge-power_contributor.png" width="230"/>
-<img src="assets\gssoc-badge-on_a_roll.png" width="230"/>
->>>>>>> f14db88af68759ce580039cd055709c84de828ae
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<img
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  width="100vw"
+  style="border-radius: 20px;"
+>
 
 ### Wait , I am building something Crazy ........
 <p align="center">
-<img src="./assets/coding.gif" width="900"/>
+<img 
+  src="./assets/coding.gif"
+  width="900"
+  style="border-radius: 30px;"
+  >
 </p>

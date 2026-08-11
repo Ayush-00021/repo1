@@ -7,7 +7,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&duration=4000&color=38BDF8&vCenter=true&width=500&height=90&lines=Hi+There!+👋;I'm+Ankit+Singh+Tomar!"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&duration=2500&color=38BDF8&vCenter=true&width=500&height=90&lines=Hi+There!+👋;I'm+Ankit+Singh+Tomar!"
     alt="Typing SVG"
   />
 </p>
@@ -63,24 +63,25 @@
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-###  GSSoC 2026 Achievements
+###  GSSoC 2026 Achievements 
 
 <p align="center">
+<<<<<<< HEAD
 <img src="assets\gssoc-badge-gssoc_champion.png" width="120"/>
 <img src="assets\gssoc-badge-elite.png" width="120"/>
 <img src="assets\gssoc-badge-power_contributor.png" width="120"/>
 <img src="assets\gssoc-badge-on_a_roll.png" width="120"/>
 
 
+=======
+<img src="assets\gssoc-badge-elite.png" width="230"/>
+<img src="assets\gssoc-badge-power_contributor.png" width="230"/>
+<img src="assets\gssoc-badge-on_a_roll.png" width="230"/>
+>>>>>>> f14db88af68759ce580039cd055709c84de828ae
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-
-
-
-
-
-
-
+### Wait , I am building something Crazy ........
 <p align="center">
 <img src="./assets/coding.gif" width="900"/>
 </p>
